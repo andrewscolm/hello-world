@@ -1,6 +1,6 @@
-# {{project_name}}
+# {{test_project}}
 
-This is the code and configuration for {{project_name}}
+This is the code and configuration for {{test_project}}
 
 * The paper is [here]()
 * Raw model outputs, including charts, crosstabs, etc, are in `released_outputs/`
